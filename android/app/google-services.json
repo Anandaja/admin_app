@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633772500582",
+    "project_id": "demodataadminapp",
+    "storage_bucket": "demodataadminapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633772500582:android:5db87b384a0bc4a8482fa7",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqS-3FPmGZ6iqzM5LiYtuoGW61g3_Usg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
